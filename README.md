@@ -7,7 +7,7 @@
 
 ## Sobre mi  :
 
--  🎓Actualmente estudiando la carrera de **Ingenieria  de Sistemas ** en UTP[Universidad Tecnologica del Peru]
+- 🎓Actualmente estudiando la carrera de Ingenieria  de Sistemas  en UTP[Universidad Tecnologica del Peru]
 - 🎓 Egresado  de Desarrollo de Software en SENATI
 - 🏡Vivo en Ventanilla-Callao
 <br>
